@@ -15,4 +15,4 @@ An interactive **E-commerce Sales Dashboard** designed to provide insights into 
 ---
 ## 🖼️ Dashboard Screenshot  
 
-![E-commerce Sales Dashboard]()  
+![E-commerce Sales Dashboard](Screenshot%202025-08-28%20150925.png)  
